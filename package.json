@@ -1,7 +1,7 @@
 {
   "name": "express-ts",
   "version": "0.0.0",
-  "description": "A port of Express@4 to ES2022+ Typescript (on Node 18) for experimentation and hacking",
+  "description": "A port of Express@4 to ES2022+ Typescript (on Node 18) for experimenting and hacking",
   "main": "index.js",
   "author": "Matt Cain <matt@mattcain.dev>",
   "license": "UNLICENSED",
